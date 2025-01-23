@@ -1,0 +1,5 @@
+Investigation Update:
+
+You notice fresh footprints leading towards the market.
+
+Remember: Use 'cd "market"' to follow this lead.
