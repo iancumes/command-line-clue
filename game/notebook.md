@@ -6,7 +6,7 @@
 - [ ] The Tailor
 
 ## Weapons
-- [ ] Kitchen Knife
+- [x] Kitchen Knife
 - [ ] Old Key
 - [x] Garden Shears
 
@@ -20,4 +20,7 @@ Garden Shears found at /home/iancumes/Tarea1_Clue/command-line-clue/game/park/po
  The scene of the crime is /home/iancumes/Tarea1_Clue/command-line-clue/game/school/cafeteria/kitchen
  Glass Bottle and Police Officer at /home/iancumes/Tarea1_Clue/command-line-clue/game/school/gymnasium
  Teacher discarded at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops
+ Brass CandleStick found at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/bakery/storage
+ Kitchen Knife at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/market
+ 
 Location of the crime is still unknown - the room must have been empty when it happened...
