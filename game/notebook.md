@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Innkeeper
+- [x] The Innkeeper
 - [x] The Teacher
 - [ ] The Tailor
 
@@ -22,5 +22,8 @@ Garden Shears found at /home/iancumes/Tarea1_Clue/command-line-clue/game/park/po
  Teacher discarded at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops
  Brass CandleStick found at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/bakery/storage
  Kitchen Knife at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/market
+ Librarian And Fountain Pen at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/market/aisles
+ Musician and Leather gloves at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops/market/stockroom
+ The InnKeeper was at /home/iancumes/Tarea1_Clue/command-line-clue/game/town hall
  
 Location of the crime is still unknown - the room must have been empty when it happened...
