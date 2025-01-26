@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Innkeeper
-- [ ] The Teacher
+- [x] The Teacher
 - [ ] The Tailor
 
 ## Weapons
@@ -18,4 +18,6 @@ The Doctor and Journalist at /home/iancumes/Tarea1_Clue/command-line-clue/game/p
 Garden Shears found at /home/iancumes/Tarea1_Clue/command-line-clue/game/park/pond/dock
  Brass Bell at /home/iancumes/Tarea1_Clue/command-line-clue/game/school/cafeteria
  The scene of the crime is /home/iancumes/Tarea1_Clue/command-line-clue/game/school/cafeteria/kitchen
+ Glass Bottle and Police Officer at /home/iancumes/Tarea1_Clue/command-line-clue/game/school/gymnasium
+ Teacher discarded at /home/iancumes/Tarea1_Clue/command-line-clue/game/shops
 Location of the crime is still unknown - the room must have been empty when it happened...
